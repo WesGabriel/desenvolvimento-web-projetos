@@ -1,0 +1,19 @@
+.div-camp {
+    margin: 0;
+    padding: 10px;
+    background: #e8e8d9;
+}
+
+.camp-publi {
+    color: #828271;
+    font-size: 1.2em;
+}
+
+#ft-camp {
+    border-radius: 5%;
+    box-shadow: 0 0 10px #000000;
+}
+
+.text-camp {
+    text-align: justify;
+}

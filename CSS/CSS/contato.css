@@ -1,0 +1,30 @@
+.div-contato {
+    margin: 0;
+    padding: 10px;
+    background: #e8e8d9;
+}
+
+.bloco-contato {
+    display: flex;
+    flex-wrap: w;
+    margin: 0;
+    justify-content: space-between;
+    text-align: justify;
+}
+
+.div-imagem {
+    padding-right: 35px;
+}
+
+.contato {
+    color: #828271;
+    font-size: 1.2em;
+}
+
+.foto3 {
+    width: 250px;
+}
+
+.text-camp {
+    text-align: justify;
+}
