@@ -1,0 +1,60 @@
+/* Configurações da página */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 1em;
+    font-family: "Trebuchet MS", "Helvetica", sans-serif;
+    background: #e6e6e6;
+}
+
+/* Configurações da Logo */
+#cabecalho {
+    background-color: #F7EC09;
+    padding-top: 15px;
+}
+
+#logo {
+    text-align: center;
+    color: #4e4e4e;
+    font-size: 2.5em;
+    padding-bottom: 25px;
+}
+
+.branco {
+    color: #ffffff;
+}
+
+/* Configurações do Menu */
+#menu {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style-type: none;
+    padding-bottom: 25px;
+}
+
+#link-menu {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+#link-menu:link, #link-menu:visited {
+    color: #fff;
+    padding: 8px 12px;
+}
+
+#link-menu:hover {
+    padding:8px;
+    border-radius: 5px;
+    background: linear-gradient(90deg, #F7EC09, #4e4e4e);
+}
+
+/* Configurações da Rodapé */
+footer {
+    text-align: center;
+    padding-bottom: 10px;
+}

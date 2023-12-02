@@ -1,0 +1,22 @@
+/*Congiguração de eletrônicos*/
+#div-eletronico {
+    display: flex;
+    margin: 0 auto;
+    padding: 15px;
+    width: 920px;
+}
+/*Congiguração da área de postagem*/
+#postagem-eletronico {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 660px;
+    background: white;
+    padding: 5px;
+}
+
+.post-eletronico {
+    width: 300px;
+    height: 150px auto;
+    margin-bottom: 10px;
+}

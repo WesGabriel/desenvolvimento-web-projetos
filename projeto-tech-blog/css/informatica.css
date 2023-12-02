@@ -1,0 +1,39 @@
+/*Congiguração da Home*/
+#div-informatica {
+    display: flex;
+    margin: 0 auto;
+    padding: 15px;
+    width: 920px;
+}
+/*Congiguração da área de postagem*/
+#postagem {
+    width: 660px;
+    background: white;
+    padding: 5px;
+}
+/*Congiguração dos posts*/
+/*Congiguração dos Títulos*/
+.title {
+    color: #4e4e4e;
+}
+/*Congiguração das datas*/
+.date {
+    font-size: 0.8em;
+    border-bottom: 1px solid #d1cfcf;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    display: block;
+}
+/*Congiguração dos textos dos posts*/
+.text-post {
+    text-align: justify;
+}
+/*Congiguração do "Leia mais"*/
+.leia-mais {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.leia-mais:hover{
+    text-decoration: underline;
+}

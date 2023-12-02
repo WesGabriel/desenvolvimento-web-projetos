@@ -1,0 +1,92 @@
+/*Congiguração da Home*/
+#div-home {
+    display: flex;
+    margin: 0 auto;
+    padding: 15px;
+    width: 920px;
+}
+/*Congiguração da área de postagem*/
+#postagem {
+    width: 660px;
+    background: white;
+    padding: 5px;
+}
+/*Congiguração dos posts*/
+/*Congiguração dos Títulos*/
+.title {
+    color: #4e4e4e;
+}
+/*Congiguração das datas*/
+.date {
+    font-size: 0.8em;
+    border-bottom: 1px solid #d1cfcf;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    display: block;
+}
+/*Congiguração das imagem*/
+#imagem {
+    width: 100%;
+    border-radius: 1.5%;
+}
+/*Congiguração dos textos dos posts*/
+.text-post {
+    text-align: justify;
+}
+/*Congiguração do "Leia mais"*/
+.leia-mais {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.leia-mais:hover{
+    text-decoration: underline;
+}
+
+/*Congiguração da Área lateral*/
+#lateral {
+    width: 240px;
+    margin-left: 15px;
+    padding: 5px;
+    background: white;
+}
+/*Congiguração das Postagens recentes*/
+/*Congiguração Título lateral*/
+.title-lateral {
+    background: #adadad;
+    color: #4e4e4e;
+    padding: 5px;
+}
+hr {
+    margin: 10px 0;
+}
+/*Congiguração Post */
+.post-recente {
+    text-align: justify;
+}
+.leia-mais-lateral {
+    color: black;
+    font-size: 0.8em;
+    text-decoration: none;
+}
+.leia-mais-lateral:hover {
+    text-decoration: underline;
+    color: #d1b120;
+}
+/*Congiguração da Categoria*/
+.categoria {
+    background: #adadad;
+    color: #4e4e4e;
+    padding: 5px;
+}
+/*Congiguração link das categorias*/
+.link-categoria {
+    text-decoration: none;
+    color: black;
+}
+.link-categoria:hover {
+    text-decoration: underline;
+    color: #d1b120;
+    font-weight: bold;
+    font-size: 1.2em;
+}
